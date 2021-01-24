@@ -29,3 +29,5 @@
 7. สร้าง Pull Request เข้ามาที่ Repo หลัก โดยตั้งหัวข้อ PR ดังนี้ `รหัสนักศึกษา - Add profile` เช่น `53070077 - Add profile`
 8. หากมี Conflict ในขั้นตอนการ Merge เกิดขึ้นให้แก้ไขให้เรียบร้อย
 9. Lab จะเสร็จสิ้นเมื่อ PR ผ่าน และได้ Merge เข้า Branch main แล้ว สามารถดูผลลัพธ์การ Merge ได้ผ่าน Github pages https://saranonuan.github.io/sdte-lab3/
+
+## เมื่อเสร็จแล้ว ให้ Capture หน้า Pull request ที่ขึ้นสถานะ Merged เรียบร้อยแล้ว ส่งใน Google Classroom เพื่อเป็นหลักฐานด้วย
